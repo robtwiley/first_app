@@ -1,2 +1,2 @@
-rails -v 3.0.0.rc
+rails -v 3.0.0.beta4
 sqlite3-ruby --version 1.3.1
